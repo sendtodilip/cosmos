@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Books"
+date:   2020-12-20 08:54:37 +0530
+categories: DotNet, Github, StaticPages
+---
+
+ Image The World as I see it Albert Einstein
+
+![TheOneThing](https://www.the1thing.com/wp-content/themes/theonething/dist/images/object-home-tot-book_cc61ed86.png) The one thing Gary Keller, Jay Papasan 

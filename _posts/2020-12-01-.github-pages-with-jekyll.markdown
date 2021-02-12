@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "Github Pages with Jekyll"
+date:   2020-12-01 20:54:37 +0530
+categories: [DotNet, Github, StaticPages]
+---
+https://images.pexels.com/photos/6176842/pexels-photo-6176842.jpeg
+# Install Rubyy
+https://rubyinstaller.org/downloads/
+
+# Check Ruby verions: 
+     C:\>ruby -v
+     ruby 2.7.1p83 (2020-03-31 revision a0c7c23c9c) [x64-mingw32]
+
+# Check Gem Version:
+    C:\>gem -v
+    3.1.2
+
+# Install jekyll
+    C:\>gem install jekyll bundler 
+
+# Check Jekyll version
+    C:\>jekyll -v
+    jekyll 4.1.1
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/EvYs1idcGnM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T1itpPvFWHI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

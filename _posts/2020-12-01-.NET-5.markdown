@@ -1,0 +1,26 @@
+---
+layout: post
+title:  ".NET 5!"
+date:   2020-12-01 20:54:37 +0530
+categories: DotNet
+---
+
+[var]
+
+[Dependency Injection]
+
+Inversion of controls(IOC) is a concept & Dependency injection is just another way to implement it. To implement dependency injection, we have 3 different ways. These are :
+
+* Constructor dependency injection
+* Method dependency injection
+* Property dependency injection
+
+
+[Dependency Injection]: https://dotnetfreakblog.wordpress.com/2013/04/16/dependency-injection-inversion-of-controlsioc-in-c-the-basics-part-1/
+[var]: https://www.intertech.com/the-use-and-abuse-of-the-c-var-keyword/
+
+https://guides.github.com/features/mastering-markdown/
+
+<iframe width="320" height="40" src="http://nynjbengali.com/?powerpress_embed=1711-podcast&amp;powerpress_player=default" frameborder="0" scrolling="no"></iframe>
+
+<iframe width="320" height="40" src="http://nynjbengali.com/?powerpress_embed=1705-podcast&amp;powerpress_player=default" frameborder="0" scrolling="no"></iframe>
