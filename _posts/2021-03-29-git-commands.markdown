@@ -13,7 +13,7 @@ Rebasing is changing the base of your branch from one commit to another making i
 
 https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase#:~:text=From%20a%20content%20perspective%2C%20rebasing,them%20to%20the%20specified%20base.
 
-lenovo@Lenovo-PC MINGW64 /e/cosmos/Learning/Github/git-fast (master)  
+(master)  
 $ git checkout -b feature-branch  
 $ vim human.txt  
 $ git commit -am "master: added team information - human.txt"  
@@ -32,7 +32,7 @@ $ git commit -am "master: modifed tittle 404.html"</br>
 $ vim 404.html  
 $ git commit -am "master: modifed new tittle 404.html"  
 
-lenovo@Lenovo-PC MINGW64 /e/cosmos/Learning/Github/git-fast (master)</br>
+(master)</br>
 $ git log --oneline --decorate --graph --all  
 * 9f6fa1d (HEAD -> master) master: modifed new tittle 404.html
 * 566c9c9 master: modifed tittle 404.html
