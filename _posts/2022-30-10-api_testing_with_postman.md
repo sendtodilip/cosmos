@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "API Testing with Postman"
-date:   2022-2430-10 20:54:37 +0530
+date:   2022-30-10 20:54:37 +0530
 categories: postman
 ---
 
